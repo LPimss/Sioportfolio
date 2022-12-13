@@ -1,0 +1,38 @@
+.title{
+
+    font-style: italic;
+    color: black;
+    margin-left: 80%;
+    margin-top: 30px;
+    font-size: xx-large;
+
+}
+
+.texte{
+
+    margin-top: 4%;
+
+}
+
+
+.soustitre{
+
+    color: red;
+    font-size: larger;
+    text-align: left;
+}
+
+.soustitreC{
+
+    color: red;
+    font-size: larger;
+    text-align: center;
+}
+
+.imagecentre{
+    margin :auto;
+    display:flex;
+    position:center;
+    margin-top: 50px;
+    resize: 50%;
+}
